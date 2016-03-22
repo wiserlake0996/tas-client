@@ -1,2 +1,2 @@
 # tas-client
-Client application to display tweets and sentiments
+client application to search display tweets and sentiments for a search topic, built with React 
