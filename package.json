@@ -1,0 +1,30 @@
+{
+  "name": "tas-client",
+  "version": "1.0.0",
+  "description": "client application to for users to search for tweets with its sentiment score attached",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiserlake0996/tas-client.git"
+  },
+  "keywords": [
+    "tweets",
+    "sentiments"
+  ],
+  "author": "wiserlake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiserlake0996/tas-client/issues"
+  },
+  "homepage": "https://github.com/wiserlake0996/tas-client#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0",
+    "morgan": "^1.7.0",
+    "request": "^2.69.0",
+    "socket.io": "^1.4.5"
+  }
+}

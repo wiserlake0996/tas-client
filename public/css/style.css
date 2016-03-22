@@ -1,0 +1,38 @@
+body{
+    
+}
+
+#page{
+
+
+}
+
+#sidebar{
+    float: left;
+    width: 200px;
+    margin-top: 70px;
+}
+
+#content{
+    float: right;
+    width: 800px;
+    margin-top: 50px;
+    margin-right: 40px;
+
+}
+
+#searchContent{
+    width: 95%;
+}
+
+.tweetItem{
+    width: 700px;
+    padding: 5px;
+    overflow: auto;
+    margin: 10px;
+    
+}
+
+.tweetList{
+    list-style: none;
+}
